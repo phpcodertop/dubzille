@@ -1,0 +1,32 @@
+#icon-themes.PlvThemeOptions{background:url("../images/IconThemes.png") no-repeat scroll 0 0 transparent!important;margin-bottom:1em}
+.PlvTabs{width:98%}
+.PlvTabs .Content{background-color:#EAEAEA;border:1px solid #CCC;border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-right-radius:5px;padding:3px 10px}
+.PlvTabs .color-box,.PlvTabs .pattern-box,.PlvTabs .bg-box{background:none repeat scroll 0 0 #222;border:1px solid #CACACA;display:block;float:left;height:20px;margin-bottom:5px;margin-left:2px;margin-right:2px;width:20px}
+.PlvTabs .form-table td label,.PlvTabs .form-table th label{font:12px tahoma}
+.PlvTabs .form-table td,.PlvTabs .form-table th{padding:2px 5px 2px 30px;vertical-align:top}
+.PlvTabs .indentmenu{font:bold 18px arial;width:100%}
+.PlvTabs .indentmenu ul{float:left;margin:0;padding:0}
+.PlvTabs .indentmenu ul li{display:inline}
+.PlvTabs .indentmenu ul li #Advertisement div{background-position:0 -16px}
+.PlvTabs .indentmenu ul li #ContactForm div{background-position:0 -80px}
+.PlvTabs .indentmenu ul li #General div{background-position:0 0}
+.PlvTabs .indentmenu ul li #Homepage div{background-position:0 -32px}
+.PlvTabs .indentmenu ul li #SEO div{background-position:0 -64px}
+.PlvTabs .indentmenu ul li #SinglePage div{background-position:0 -48px}
+.PlvTabs .indentmenu ul li a{background:url("../images/menu-bits.png") repeat-x scroll left top #E0E0E0;border-left:1px solid #CCC;border-right:1px solid #CCC;border-top:1px solid #CCC;border-top-left-radius:5px;border-top-right-radius:5px;color:#000;float:left;margin-right:5px;padding:5px;text-decoration:none}
+.PlvTabs .indentmenu ul li a div{background:url("../images/ThemeOptions.png") no-repeat scroll 0 0 transparent;float:left;height:16px;margin-right:3px;width:16px}
+.PlvTabs .indentmenu ul li a.selected{background:none repeat scroll 0 0 #F1F1F1;box-shadow:0 0 3px #CCC;color:#D54E21;padding-bottom:4px;padding-top:6px}
+.PlvTabs .indentmenu ul li a:hover{background:none repeat scroll 0 0 transparent;cursor:pointer}
+.PlvTabs .indentmenu ul li a:visited{color:#FFF}
+.PlvTabs .indentmenu ul li span{font-size:16px;color:#333}
+.PlvTabs .number-box{cursor:auto;float:left;margin-left:2px;margin-right:2px;text-align:center;text-decoration:none;width:22px}
+.PlvTabs .number-box-background,.PlvTabs .galimg{cursor:auto;float:left;margin-left:2px;margin-right:2px;text-align:center;text-decoration:none;width:175px}
+.PlvTabs .tabcontent{display:none;padding-bottom:1em}
+.PlvTabs .tabcontentstyle{border-top:5px solid gray;margin-bottom:1em;width:750px}
+.PlvTabs .wrap .icon32{background:url("../images/SubMenu.png") no-repeat scroll 0 0 transparent!important;height:20px;width:20px}
+.PlvTabs .wrap h2{font-size:1.5em;line-height:1em}
+.PlvTabs .wrap,.PlvTabs h5{margin:0}
+.PlvTabs input{width:99%}
+.PlvTabs input.button-primary{float:right;width:auto}
+.PlvTabs select{min-width:150px}
+.PlvTabs textarea{min-height:7em;overflow:auto;resize:vertical;width:99%}
